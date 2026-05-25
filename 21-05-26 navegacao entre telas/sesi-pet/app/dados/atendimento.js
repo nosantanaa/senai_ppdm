@@ -4,7 +4,7 @@ export const profissionais = [
   { id: '3', nome: 'Ana Souza', especialidade: 'Atendimento' },
 ];
 
-export const atendimentos = [
+export const atendimento = [
   { id: '1', pet: 'Thor', servico: 'Consulta', horario: '09:00' },
   { id: '2', pet: 'Luna', servico: 'Banho', horario: '10:30' },
   { id: '3', pet: 'Maya', servico: 'Tosa', horario: '14:00' },
