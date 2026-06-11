@@ -11,7 +11,7 @@ import { router } from 'expo-router';
 export default function Login() {
   return (
     <View style={styles.container}>
-      <Text style={styles.logo}>Wave Music</Text>
+      <Text style={styles.logo}>Midnight Sound</Text>
 
       <TextInput
         placeholder="E-mail"

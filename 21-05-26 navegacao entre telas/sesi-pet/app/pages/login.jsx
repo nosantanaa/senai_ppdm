@@ -39,6 +39,12 @@ export default function Login({ navigation }) {
         >
           <Text style={estilos.textoBotao}>Entrar</Text>
         </TouchableOpacity>
+        <TouchableOpacity
+          style={estilos.botao}
+          onPress={() => navigation.navigate("cadastro")}
+        >
+          <Text style={estilos.textoBotao}>Cria uma conta</Text>
+        </TouchableOpacity>
       </View>
     </View>
   );
