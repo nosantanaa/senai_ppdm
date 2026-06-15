@@ -136,6 +136,12 @@ const styles = StyleSheet.create({
     paddingVertical: 20,
   },
 
+  graficoPizzaContainer: {
+  alignItems: "center",
+  justifyContent: "center",
+  overflow: "hidden",
+},
+
   titulo: {
     fontSize: 30,
     fontWeight: "bold",
